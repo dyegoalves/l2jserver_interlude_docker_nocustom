@@ -83,6 +83,6 @@ docker-compose logs -f
 
 --- 
 
-#### Zip controle de versão
+#### Zip controle de versão do code server para envio ao desenvolvedor
 
 zip -r servidor_interlude.zip * -x "sl2/game/log/*" "sl2/login/log/*" "mysql/*"
